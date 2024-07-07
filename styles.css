@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+h1{
+    margin: 0;
+}
+.open-sans {
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.lato { 
+    font-family: 'Lato', sans-serif; 
+}
+
+.montserrat { 
+    font-family: 'Montserrat', sans-serif; 
+}
+
+.oswald { 
+    font-family: 'Oswald', sans-serif; 
+}
+
+.slabo { 
+    font-family: 'Slabo 27px', serif; 
+}
+
+.raleway { 
+    font-family: 'Raleway', sans-serif; 
+}
+
+.pt-sans { 
+    font-family: 'PT Sans', sans-serif; 
+}
+
+.merriweather { 
+    font-family: 'Merriweather', serif; 
+}
+
+.roboto-slab { 
+    font-family: 'Roboto Slab', serif; 
+}
